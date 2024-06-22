@@ -15,7 +15,7 @@ Sunrise Education
             font-family: Arial, sans-serif;
             line-height: 1.6;
             margin: 20px;
-            background-color: #f0f8ff;
+            background-color: #333;
         }
         h1 {
             text-align: center;
