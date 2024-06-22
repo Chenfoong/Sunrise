@@ -16,6 +16,7 @@ Sunrise Education
             line-height: 1.6;
             margin: 20px;
             background-color: #333;
+            color: #fff;
         }
         h1 {
             text-align: center;
